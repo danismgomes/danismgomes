@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Danielle Gomes  
   
 ## Mobile Developer   &  Code Enthusiast
