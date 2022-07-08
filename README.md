@@ -29,7 +29,7 @@
 ## Experience
 
 #### iOS Developer  
-> :date: 05/2019 - util now | [Air Code Design](https://aircodedesign.com/) | :mailbox_with_mail: Vancouver, British Columbia, Canada
+> :date: 05/2020 - util now | [Arctic Eider Society](https://arcticeider.com/) | :mailbox_with_mail: Vancouver, British Columbia, Canada
 * Responsible for [SIKU](https://siku.org/) iOS development;
 * Home office;
 * Remote Meetings;
